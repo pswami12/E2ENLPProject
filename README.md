@@ -1,1 +1,3 @@
-# E2ENLPProject
+# nlp-framework
+torchtext == 
+spacy == 
